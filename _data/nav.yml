@@ -1,0 +1,8 @@
+- name: Posts
+  link: /posts
+- name: PostsBR
+  link: /postsbr
+- name: Categories
+  link: /categories/
+- name: About & Contact
+  link: /
